@@ -1,3 +1,3 @@
 # DemoSSH
 
-This is an myeclipse project.
+This is a myeclipse project.
